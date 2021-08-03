@@ -1,0 +1,7 @@
+.FormGroup .required{
+    color: red;
+}
+
+.FormGroup .form-control--has-error {
+    border-color: #c0392b;
+}
